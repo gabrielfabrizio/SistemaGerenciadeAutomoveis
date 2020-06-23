@@ -1,0 +1,11 @@
+Agradecemos a preferência ao nosso Sistema de Gestão de Automóveis.
+Neste documento se encontram algumas informações que serão úteis antes da utilização do programa.
+
+1 - Para iniciar o programa, é necessário que o execute como administrador, devido as permissões necessárias para o armazenamento dos dados no disco C:\.
+2 - Os dados inseridos são de responsabilidade do cliente não nos responsabilizamos por nenhuma informação, seja no seu preenchimento, armazenamento, ou utilização.
+3 - Você pode acessar o sistema utilizando o atalho "Compra e venda de veiculos".
+
+Dúvidas estamos à disposição.
+
+Atenciosamente,
+CGGL Veículos.
